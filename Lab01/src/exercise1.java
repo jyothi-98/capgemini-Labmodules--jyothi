@@ -1,6 +1,4 @@
 
-
-
 /**
  * Create a method to find the sum of the cubes of the digits of an n digit number
  * Author:jyothi
